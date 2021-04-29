@@ -5,5 +5,5 @@
   tasks:
   - name: Criando um file 
     file:
-      path: "/tmp/teste13"
+      path: "/tmp/teste1"
       state: touch
